@@ -18,7 +18,7 @@
 		4E63D61523AA44C900CA5E3A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E63D61323AA44C900CA5E3A /* LaunchScreen.storyboard */; };
 		4E63D62023AA44CB00CA5E3A /* LoginRegTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E63D61F23AA44CB00CA5E3A /* LoginRegTestTests.swift */; };
 		4E63D62B23AA44CB00CA5E3A /* LoginRegTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E63D62A23AA44CB00CA5E3A /* LoginRegTestUITests.swift */; };
-		906A6F3323BA0FA400F3FE91 /* home-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 906A6F3223BA0FA400F3FE91 /* home-icon.png */; };
+		906A6F3523BA190E00F3FE91 /* home-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 906A6F3423BA190E00F3FE91 /* home-icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,7 +56,7 @@
 		4E63D62623AA44CB00CA5E3A /* LoginRegTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginRegTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E63D62A23AA44CB00CA5E3A /* LoginRegTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginRegTestUITests.swift; sourceTree = "<group>"; };
 		4E63D62C23AA44CB00CA5E3A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		906A6F3223BA0FA400F3FE91 /* home-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "home-icon.png"; path = "../../Downloads/home-icon.png"; sourceTree = "<group>"; };
+		906A6F3423BA190E00F3FE91 /* home-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "home-icon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,7 +91,7 @@
 				4E63D61E23AA44CB00CA5E3A /* LoginRegTestTests */,
 				4E63D62923AA44CB00CA5E3A /* LoginRegTestUITests */,
 				4E63D60823AA448700CA5E3A /* Products */,
-				906A6F3223BA0FA400F3FE91 /* home-icon.png */,
+				906A6F3423BA190E00F3FE91 /* home-icon.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -246,8 +246,8 @@
 			files = (
 				4E63D61523AA44C900CA5E3A /* LaunchScreen.storyboard in Resources */,
 				4E63D61223AA44C900CA5E3A /* Assets.xcassets in Resources */,
-				906A6F3323BA0FA400F3FE91 /* home-icon.png in Resources */,
 				4E63D61023AA448800CA5E3A /* Main.storyboard in Resources */,
+				906A6F3523BA190E00F3FE91 /* home-icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
